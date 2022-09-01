@@ -1,4 +1,4 @@
-> # Lab 16 AWS
+> # Lab 16 AWS Elastic Beanstalk
 
 ## Deployment Test
 
